@@ -6,8 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SPE_Mini_Calculator" />
-        <module name="SPE_Mini_Calc" />
+        <module name="CalculatorDevOps" />
       </profile>
     </annotationProcessing>
   </component>
